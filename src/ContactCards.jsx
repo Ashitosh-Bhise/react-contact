@@ -1,4 +1,3 @@
-
 const ContactCards = ({ contactList }) => {
   return (
     <>
